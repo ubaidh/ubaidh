@@ -11,8 +11,8 @@
 <br/>
 
 Hi, I'm ubaid, a Full Stack Developer 🚀 from Kashmir. 
-
-
+<br/>
+ 🔭 🌱 👯  🤔 💬 📫 😄 ⚡
 
 <!--
 **ubaidh/ubaidh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
