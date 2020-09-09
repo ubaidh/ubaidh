@@ -9,7 +9,7 @@
 </a>
 <br/>
 <br/>
-👨‍💻 
+👨‍💻 <br/>
 Hi, I'm ubaid, a Full Stack Developer 🚀 from Kashmir. 
 <br/>
  
