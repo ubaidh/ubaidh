@@ -11,5 +11,4 @@
 
 👨‍💻 <br/>
 Hi, I'm ubaid, a Full Stack Developer 🚀 
-<br/>
-👨‍💻 
+
