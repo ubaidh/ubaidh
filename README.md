@@ -9,7 +9,7 @@
 </a>
 <br/>
 <br/>
-<img align="center" width="100%" height="500px" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"/>
+<img align="center" width="100%" height="100%" src="https://images.unsplash.com/photo-1562963527-ab1b093b0ff7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"/>
   
 👨‍💻 
 <br/>
