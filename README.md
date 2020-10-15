@@ -13,5 +13,5 @@
   
 👨‍💻 
 <br/>
-Hi, I'm ubaid, a Full Stack Developer 🚀 
+<p align="center">Hi, I'm ubaid, a Full Stack Developer 🚀 </p>
 
