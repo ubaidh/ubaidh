@@ -11,7 +11,7 @@
 <br/>
 <img align="center" width="100%"  src="https://images.unsplash.com/photo-1495841020177-1919ede29bd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1481&q=80"/>
   
-👨‍💻 
+
 <br/>
-<p align="center">Hi, I'm ubaid, a Full Stack Developer 🚀 </p>
+<p align="center">👨‍💻 Hi, I'm ubaid 🚀 </p>
 
