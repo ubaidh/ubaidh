@@ -6,10 +6,11 @@
 </a>
 <a href="mailto:obaidh@live.com">
   <img align="right" alt="ubaid's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/microsoftoutlook.svg"/>
+ 
 </a>
 <br/>
 <br/>
-<img align="center" width="100%"  src="https://images.unsplash.com/photo-1495841020177-1919ede29bd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1481&q=80"/>
+<img align="center" width="100%"  src="https://i.ibb.co/0m8VrXY/undraw-version-control-9bpv.png"/>
   
 
 <br/>
