@@ -10,7 +10,7 @@
 </a>
 <br/>
 <br/>
-<img align="center" width="100%"  src="https://i.ibb.co/0m8VrXY/undraw-version-control-9bpv.png"/>
+<img align="center" width="80%"  src="https://i.ibb.co/0m8VrXY/undraw-version-control-9bpv.png"/>
   
 
 <br/>
