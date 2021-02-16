@@ -9,9 +9,7 @@
  
 </a>
 <br/>
-<br/>
-<img align="center" height="50%" width="100%"  src="https://i.ibb.co/0m8VrXY/undraw-version-control-9bpv.png"/>
-  
+
 
 <br/>
 <br/>
