@@ -1,18 +1,31 @@
-### Hi there 
+# Hi there! 👋
+
+I'm ubaid, a software engineer based in kashmir. 
+
+## About Me
+
+- [Add a sentence or two about yourself, your hobbies, or interests]
+- [Add another sentence or two about your professional experience, skills, or education]
+
+## Skills
+
+- javascript
+- angular
+- react
+- react native
+- mysql
+
+## Contact Me
 
 
-<a href="https://twitter.com/ud1406">
-  <img align="right" alt="ubaidh's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:obaidh@live.com">
-  <img align="right" alt="ubaid's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/microsoftoutlook.svg"/>
- 
-</a>
-<br/>
+
+## GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubaidh&show_icons=true&theme=dark)](https://github.com/ubaidh/github-readme-stats)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidh&layout=compact&theme=dark)](https://github.com/ubaidh/github-readme-stats)
 
 
-<br/>
-<br/>
-
-### <p  align="center">👨‍💻 Hi, I'm ubaid 🚀 </p>
-
+### Thanks for visiting! ❤️
