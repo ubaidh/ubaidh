@@ -12,11 +12,7 @@ I'm ubaid, a software engineer based in kashmir.
 - express
 - node
 - mongodb
-
-## Contact Me
-
-
-
+- 
 ## GitHub Stats
 
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubaidh&show_icons=true&theme=dark)](https://github.com/ubaidh/github-readme-stats)
