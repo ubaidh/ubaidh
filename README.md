@@ -2,11 +2,6 @@
 
 I'm ubaid, a software engineer based in kashmir. 
 
-## About Me
-
-- [Add a sentence or two about yourself, your hobbies, or interests]
-- [Add another sentence or two about your professional experience, skills, or education]
-
 ## Skills
 
 - javascript
@@ -14,6 +9,9 @@ I'm ubaid, a software engineer based in kashmir.
 - react
 - react native
 - mysql
+- express
+- node
+- mongodb
 
 ## Contact Me
 
