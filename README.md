@@ -1,11 +1,9 @@
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubaidh&show_icons=true&theme=dark)](https://github.com/ubaidh/github-readme-stats)
+<!-- [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubaidh&show_icons=true&theme=dark)](https://github.com/ubaidh/github-readme-stats)
 
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidh&layout=compact&theme=dark)](https://github.com/ubaidh/github-readme-stats)
-
-
-# ❤️
+# ❤️ -->
 
 
 
